@@ -11,5 +11,5 @@
 #### https://explorer.nervos.org/aggron/address/ckt1qyq0jjwq6ux8gyaxhus9rkelrjteeg66svyq7c7fej 
 
 #### 3. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
-![A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2]()
+![A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2](https://github.com/Rzbck/Rzbck-Nervos/blob/main/1-%20Create%20A%20Godwoken%20Account%20On%20The%20EVM%20Layer%202%20Testnet/img/A%20screenshot%20of%20the%20console%20output%20immediately%20after%20you%20have%20successfully%20submitted%20a%20deposit%20to%20Layer%202..PNG?raw=true)
 
