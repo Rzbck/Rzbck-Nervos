@@ -1,6 +1,6 @@
 # Hackathon: Nervos - Broaden the Spectrum Gitcoin: 
 
-## 3) Issue A Smart Contract Call To The Deployed Smart Contract
+## Gitcoin: 4- Issue An SUDT Token On Layer 1 And Deposit It To Layer 2 2500.00 CKB
 
 ### Task Submission 
 To complete the tasks, add the following materials to a document on your Github and submit for review by the judges (include the link in your Gitcoin submission):
