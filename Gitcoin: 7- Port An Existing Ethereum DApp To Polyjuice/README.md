@@ -15,7 +15,7 @@ Stored Value
 Read Stored Value
 ![image](https://github.com/Rzbck/Rzbck-Nervos/blob/main/Gitcoin:%207-%20Port%20An%20Existing%20Ethereum%20DApp%20To%20Polyjuice/img/Read%20Stored%20Value.PNG?raw=true)
 #### 2-Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
-[https://rinkeby.etherscan.io/tx/0xc80f82079224a1738ca2367fc3f957b41fbd2b197b027f8f978104b157e80133](https://rinkeby.etherscan.io/tx/0xc80f82079224a1738ca2367fc3f957b41fbd2b197b027f8f978104b157e80133)
+[https://github.com/Rzbck/Rzbck-Nervos/tree/main/Gitcoin:%207-%20Port%20An%20Existing%20Ethereum%20DApp%20To%20Polyjuice/app](https://github.com/Rzbck/Rzbck-Nervos/tree/main/Gitcoin:%207-%20Port%20An%20Existing%20Ethereum%20DApp%20To%20Polyjuice/app)
 #### 3-If you deployed any smart contracts as part of this tutorial, please provide :
 1. the transaction hash of the deployment transaction:
 
