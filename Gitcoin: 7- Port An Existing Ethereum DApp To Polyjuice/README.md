@@ -6,10 +6,14 @@
 To complete the tasks, add the following materials to a document on your Github and submit for review by the judges (include the link in your Gitcoin submission):
 
 #### 1-Screenshots or video of your application running on Godwoken.
-![image](https://user-images.githubusercontent.com/10966796/128758031-325e6627-d008-4e25-acfe-f0ab42fa258c.png)
-![image](https://user-images.githubusercontent.com/10966796/128758031-325e6627-d008-4e25-acfe-f0ab42fa258c.png)
-![image](https://user-images.githubusercontent.com/10966796/128758031-325e6627-d008-4e25-acfe-f0ab42fa258c.png)
-![image](https://user-images.githubusercontent.com/10966796/128758031-325e6627-d008-4e25-acfe-f0ab42fa258c.png)
+Transaction In Progress
+![image](https://github.com/Rzbck/Rzbck-Nervos/blob/main/Gitcoin:%207-%20Port%20An%20Existing%20Ethereum%20DApp%20To%20Polyjuice/img/1.PNG?raw=true)
+Deployed Smart Contract
+![image](https://github.com/Rzbck/Rzbck-Nervos/blob/main/Gitcoin:%207-%20Port%20An%20Existing%20Ethereum%20DApp%20To%20Polyjuice/img/2.PNG?raw=true)
+Stored Value
+![image](https://github.com/Rzbck/Rzbck-Nervos/blob/main/Gitcoin:%207-%20Port%20An%20Existing%20Ethereum%20DApp%20To%20Polyjuice/img/Stored%20Value.PNG?raw=true)
+Read Stored Value
+![image](https://github.com/Rzbck/Rzbck-Nervos/blob/main/Gitcoin:%207-%20Port%20An%20Existing%20Ethereum%20DApp%20To%20Polyjuice/img/Read%20Stored%20Value.PNG?raw=true)
 #### 2-Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
 [https://rinkeby.etherscan.io/tx/0xc80f82079224a1738ca2367fc3f957b41fbd2b197b027f8f978104b157e80133](https://rinkeby.etherscan.io/tx/0xc80f82079224a1738ca2367fc3f957b41fbd2b197b027f8f978104b157e80133)
 #### 3-If you deployed any smart contracts as part of this tutorial, please provide :
